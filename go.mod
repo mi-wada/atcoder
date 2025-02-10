@@ -1,3 +1,4 @@
 module github.com/mi-wada/atcoder
 
-go 1.23.5
+// https://img.atcoder.jp/file/language-update/language-list.html
+go 1.20
